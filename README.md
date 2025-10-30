@@ -21,7 +21,7 @@ This project has two major parts:
 ## 📂 Files in This Repository
 | File Name | Description |
 |------------|-------------|
-| `EDA_Report.xlsx` or `EDA_Report.pdf` | EDA report showing data cleaning and summary |
+| `EDA.ipynb` | EDA report showing data cleaning and summary |
 | `train_cleaned.csv` | Final dataset used for Tableau visualization |
 | `Sales_dashboard.twb` | Tableau workbook file |
 | `Sales_dashboard.pdf` | Exported dashboard view |
